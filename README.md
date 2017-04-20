@@ -1,0 +1,2 @@
+# side-translation-js
+ok
